@@ -1,5 +1,6 @@
 # qb-multicharacter-redesign
-A redesign of the resource
+A redesign of the resource Version 1.0.0
+
 #Original README 
 # qb-multicharacter
 Multi Character Feature for QB-Core Framework :people_holding_hands:
