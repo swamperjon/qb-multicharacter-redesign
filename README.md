@@ -34,6 +34,7 @@ Added support for setting default number of characters per player per Rockstar l
 
 ## Screenshots
 ![Model](https://github.com/swamperjon/qb-multicharacter-redesign/blob/main/qb-multicharacter.png)
+
 ![Character Selection](https://cdn.discordapp.com/attachments/934470871333105674/1014215694394589294/unknown.png)
 ![Character Registration](https://cdn.discordapp.com/attachments/934470871333105674/1014215687700488304/unknown.png)
 
